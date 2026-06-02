@@ -70,21 +70,6 @@ Our mission is to help businesses leverage technology to automate operations, im
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,vue,react,nextjs,angular,vite" />
 </p>
 
-### Technologies
-
-* HTML5
-* CSS3
-* Sass
-* Bootstrap
-* Tailwind CSS
-* JavaScript
-* TypeScript
-* jQuery
-* Vue.js
-* React.js
-* Next.js
-* Angular
-* Vite
 
 ---
 
@@ -94,17 +79,6 @@ Our mission is to help businesses leverage technology to automate operations, im
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django,fastapi" />
 </p>
 
-### Technologies
-
-* PHP
-* Laravel
-* Node.js
-* Express.js
-* Python
-* Django
-* FastAPI
-* REST APIs
-* GraphQL
 
 ---
 
@@ -114,13 +88,6 @@ Our mission is to help businesses leverage technology to automate operations, im
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
 </p>
 
-### Database Technologies
-
-* MySQL
-* PostgreSQL
-* MongoDB
-* SQLite
-* Redis
 
 ---
 
@@ -130,16 +97,6 @@ Our mission is to help businesses leverage technology to automate operations, im
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,githubactions" />
 </p>
 
-### Infrastructure
-
-* Docker
-* Linux
-* Nginx
-* Cloudflare
-* Git
-* GitHub
-* GitHub Actions
-* CI/CD Pipelines
 
 ---
 
@@ -149,12 +106,6 @@ Our mission is to help businesses leverage technology to automate operations, im
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,wordpress" />
 </p>
 
-### Tools
-
-* VS Code
-* Postman
-* Figma
-* WordPress
 
 ---
 
